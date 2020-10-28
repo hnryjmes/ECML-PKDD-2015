@@ -4,3 +4,5 @@ datasets/**
 !datasets/README.md
 .vscode
 .ipynb_checkpoints
+**/*.pyc
+**/.DS_Store
